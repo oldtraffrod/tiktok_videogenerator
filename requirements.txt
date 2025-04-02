@@ -1,0 +1,9 @@
+streamlit==1.44.0
+moviepy==2.1.2
+pillow==11.1.0
+requests==2.32.3
+nltk==3.9.1
+python-dotenv==1.1.0
+pexels-api==1.0.1
+pixabay-python==1.1.0
+python-unsplash==1.2.5
